@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "client": {
+    "id": "123",    
+    "name": "CCR name"
   }
 }
